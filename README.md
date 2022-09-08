@@ -10,14 +10,14 @@
 在 https://github.com/glados-network/GLaDOS 实时更新
 
 邀请码:
-`LC4CI-CBO6S-RXV13-LT7ND`
+`HSW1X-M6985-V74Q2-UQZA6`
 免费获得3天
 如果你有教育邮箱，可以拉到页面底部申请教育计划**免费获得360天时长**
 ![在这里插入图片描述](https://picture-1308610694.cos.ap-nanjing.myqcloud.com/202207221453536.png)
 
 ## Fork项目到自己的仓库
 
-1. 打开 https://github.com/sicilly/glados-checkin-1
+1. 打开 https://github.com/zhangyiCN/glados-checkin
 2. 在页面右上角点击Star、Fork
    ![在这里插入图片描述](https://picture-1308610694.cos.ap-nanjing.myqcloud.com/202207221453495.png)
 
