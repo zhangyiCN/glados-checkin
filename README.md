@@ -92,6 +92,3 @@ server酱地址：https://sct.ftqq.com/login
 ![在这里插入图片描述](https://picture-1308610694.cos.ap-nanjing.myqcloud.com/202207221453890.png)
 
 自此就成功了，可以不用管它了，每天大约0点左右都会自动签到
-
-(自动签到的时间写在checkin.yml的cron表达式里，有需要可自行修改)
-
